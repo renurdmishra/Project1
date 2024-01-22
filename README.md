@@ -1,3 +1,3 @@
 # New project 
-this project was created from local Sytstem.
+this project was created from local System.
 Created by Renu Mishra
